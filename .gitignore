@@ -19,3 +19,5 @@ interface/tsconfig.tsbuildinfo
 
 dashboard/node_modules/
 dashboard/.next/
+data/processed/*.csv
+notebooks/01_eda_inicial.ipynb
