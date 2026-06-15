@@ -1,0 +1,14 @@
+services:
+  api:
+    build: .
+    container_name: agropredict-api
+    ports:
+      - "8001:8001"
+
+  frontend:
+    build: ./interface
+    container_name: agropredict-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - api
