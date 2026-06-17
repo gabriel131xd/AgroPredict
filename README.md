@@ -194,3 +194,6 @@ http://localhost:8001/docs
 | POST   | /predict             | Nova previsão          |
 | GET    | /drift               | Monitoramento de Drift |
 | GET    | /mlflow/experimentos | Experimentos MLflow    |
+
+## 👨🏽‍💻 Equipe
+Gabriel Martins, Wagner Lucas, Pedro Henrique, Victor Emanuel, Francklin Leandro 
