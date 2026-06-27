@@ -146,7 +146,7 @@ Exemplos de atributos utilizados:
 * Análise climática;
 * Monitoramento do modelo;
 * Consulta de previsões;
-* Visualização de culturas agrícolas.
+* Visualização de culturas agrícolas;
 
 ---
 
